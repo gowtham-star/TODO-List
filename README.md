@@ -1,9 +1,9 @@
 # TODO-List
 
-##Intro
+## Intro
 An GoLang app to create a todo list. This app uses mongo to do CRUD operations
 
-##Pre requisites
+## Pre requisites
 1. MongoDB server hosted on default port
 2. Golang install on your computer
 
